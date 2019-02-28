@@ -1,5 +1,4 @@
 #include <Stream.h>
-#include <Arduino.h>
 
 class Logger {
   public:
